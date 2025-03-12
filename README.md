@@ -1,2 +1,2 @@
 # CPV
-Include some lab of CPV subject
+Include some labs of CPV subject
